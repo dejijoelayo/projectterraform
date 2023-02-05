@@ -1,0 +1,77 @@
+[33mcommit b9e74118bb6b6e6b5def691040178802f3b44cb5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: asecurityguru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Wed Jan 11 17:39:36 2023 +0530
+
+    Update README.md
+
+[33mcommit 88aeffc304417e397bd91cd1e8cc3f0a2c4061d8[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Tue Sep 6 14:59:07 2022 +0530
+
+    Update README.md
+
+[33mcommit ef9af8745ade814c2d52b3ed7bfda7e27de1df43[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Tue Sep 6 14:56:23 2022 +0530
+
+    Update README.md
+
+[33mcommit a0b6dfb43c1118678554d27d8e340d17b980bd7b[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Tue Sep 6 14:55:48 2022 +0530
+
+    Update README.md
+
+[33mcommit fbd588f3524c21871eed5a4c6057a4a99fc8e55c[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 23:03:23 2022 +0530
+
+    Update main.tf
+
+[33mcommit d4967ab7cbffe5050b7e0379c049298e7ecdddef[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 21:49:00 2022 +0530
+
+    Update README.md
+
+[33mcommit d4fb2f2b7dea21c63e33a0f4e7a710eed614c0d0[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 21:48:30 2022 +0530
+
+    Delete template.tfvars
+
+[33mcommit defda400ee8cd30f755542064c52adb5de947ea9[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 21:47:44 2022 +0530
+
+    Delete outputs.tf
+
+[33mcommit 74d78be0f3926709b612e31196256fa34b04bd47[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 21:42:19 2022 +0530
+
+    Delete kubeconfigfile
+
+[33mcommit c33d9816d57b456408d03a8a2840c8cb1cf7cc42[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Mon Sep 5 21:42:09 2022 +0530
+
+    Delete eksctl_create_cluster_commands.txt
+
+[33mcommit b0d544cbff230d25d8c5d59d4c0cbc7bb2a533c5[m
+Author: ASecurityGuru <100665517+asecurityguru@users.noreply.github.com>
+Date:   Fri Sep 2 21:42:31 2022 +0530
+
+    Update README.md
+
+[33mcommit bb5579f8bf715f32f7db5a5f5028d73708fbca4c[m
+Author: asecurityguru <gurusecuity@gmail.com>
+Date:   Fri Sep 2 21:39:42 2022 +0530
+
+    Commit all files to create a EC2 instance with Jenkins
+
+[33mcommit 1fec8198b0440596ace9456536f4ae6556ece371[m
+Author: asecurityguru <gurusecuity@gmail.com>
+Date:   Wed Aug 31 18:11:39 2022 +0530
+
+    add
